@@ -1,0 +1,44 @@
+#improved title history nicknames
+
+#byzantine
+nick_bulgaroktonos = {}
+nick_the_thracian = {}
+nick_the_isaurian = {}
+nick_the_slitnosed = {}
+nick_dicorus = {}
+nick_the_macedonian = {}
+nick_porphyrogenitos = {}
+nick_porphyrogenita = {}
+nick_the_paphlagonian = {}
+nick_the_caulker = {}
+nick_pale_death = {}
+nick_hater_of_sunlight = {}
+
+nick_tzimiskes = {
+	allow = {
+		age = 16
+		is_female = no
+		culture = armenian
+		trait = dwarf
+		OR = {
+			trait = fair
+			trait = groomed
+		}
+		OR = {
+			trait = genius
+			trait = quick
+			trait = shrewd
+		}
+	}
+	chance = {
+		factor = 60
+	}
+}
+
+nick_the_merciful = {}
+
+#armenian
+nick_master_of_the_universe = {}
+
+#english
+nick_the_peaceable = {}
