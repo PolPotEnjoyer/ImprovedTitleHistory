@@ -1,10 +1,18 @@
 200058={
+	#not a historical character; I gave him these traits in honor of a game I played as him
 	name="Luitfredo"
 	dynasty=1046017
-
 	religion=catholic
 	culture=suebi
-
+	health = 6 #lived into his 80s
+	trait="fortune_builder"
+	trait="gardener"
+	trait="poet"
+	trait="content"
+	trait="diligent"
+	trait="kind"
+	trait="humble"
+	trait="erudite"
 	715.1.1={
 		birth=yes
 	}
